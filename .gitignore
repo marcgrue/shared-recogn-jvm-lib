@@ -2,7 +2,7 @@
 
 ### Scala template
 *.class
-*.jar
+# *.jar // upload jar (no need to focus on generation)
 *.log
 
 # sbt specific
